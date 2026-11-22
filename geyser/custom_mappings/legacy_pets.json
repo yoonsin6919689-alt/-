@@ -1,0 +1,358 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:paper": [
+      {
+        "type": "definition",
+        "model": "legacy:random_pet_box",
+        "bedrock_identifier": "geyser_custom:random_pet_box",
+        "display_name": "랜덤 펫 상자",
+        "bedrock_options": {
+          "icon": "legacy_item_random_pet_box"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_allay",
+        "bedrock_identifier": "geyser_custom:pet_egg_allay",
+        "display_name": "알레이 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_allay"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_blaze",
+        "bedrock_identifier": "geyser_custom:pet_egg_blaze",
+        "display_name": "블레이즈 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_blaze"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_bogged",
+        "bedrock_identifier": "geyser_custom:pet_egg_bogged",
+        "display_name": "보그드 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_bogged"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_breeze",
+        "bedrock_identifier": "geyser_custom:pet_egg_breeze",
+        "display_name": "브리즈 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_breeze"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_cat",
+        "bedrock_identifier": "geyser_custom:pet_egg_cat",
+        "display_name": "고양이 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_cat"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_cave_spider",
+        "bedrock_identifier": "geyser_custom:pet_egg_cave_spider",
+        "display_name": "동굴 거미 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_cave_spider"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_drowned",
+        "bedrock_identifier": "geyser_custom:pet_egg_drowned",
+        "display_name": "드라운드 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_drowned"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_enderman",
+        "bedrock_identifier": "geyser_custom:pet_egg_enderman",
+        "display_name": "엔더맨 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_enderman"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_endermite",
+        "bedrock_identifier": "geyser_custom:pet_egg_endermite",
+        "display_name": "엔더마이트 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_endermite"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_guardian",
+        "bedrock_identifier": "geyser_custom:pet_egg_guardian",
+        "display_name": "가디언 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_guardian"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_hoglin",
+        "bedrock_identifier": "geyser_custom:pet_egg_hoglin",
+        "display_name": "호글린 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_hoglin"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_husk",
+        "bedrock_identifier": "geyser_custom:pet_egg_husk",
+        "display_name": "허스크 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_husk"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_iron_golem",
+        "bedrock_identifier": "geyser_custom:pet_egg_iron_golem",
+        "display_name": "아이언 골렘 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_iron_golem"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_magma_cube",
+        "bedrock_identifier": "geyser_custom:pet_egg_magma_cube",
+        "display_name": "마그마 큐브 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_magma_cube"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_ocelot",
+        "bedrock_identifier": "geyser_custom:pet_egg_ocelot",
+        "display_name": "오셀롯 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_ocelot"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_parched",
+        "bedrock_identifier": "geyser_custom:pet_egg_parched",
+        "display_name": "파치드 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_parched"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_parrot",
+        "bedrock_identifier": "geyser_custom:pet_egg_parrot",
+        "display_name": "앵무새 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_parrot"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_phantom",
+        "bedrock_identifier": "geyser_custom:pet_egg_phantom",
+        "display_name": "팬텀 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_phantom"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_piglin",
+        "bedrock_identifier": "geyser_custom:pet_egg_piglin",
+        "display_name": "피글린 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_piglin"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_piglin_brute",
+        "bedrock_identifier": "geyser_custom:pet_egg_piglin_brute",
+        "display_name": "피글린 브루트 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_piglin_brute"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_pillager",
+        "bedrock_identifier": "geyser_custom:pet_egg_pillager",
+        "display_name": "약탈자 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_pillager"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_polar_bear",
+        "bedrock_identifier": "geyser_custom:pet_egg_polar_bear",
+        "display_name": "북극곰 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_polar_bear"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_rabbit",
+        "bedrock_identifier": "geyser_custom:pet_egg_rabbit",
+        "display_name": "토끼 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_rabbit"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_ravager",
+        "bedrock_identifier": "geyser_custom:pet_egg_ravager",
+        "display_name": "레이베저 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_ravager"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_silverfish",
+        "bedrock_identifier": "geyser_custom:pet_egg_silverfish",
+        "display_name": "좀벌레 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_silverfish"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_skeleton",
+        "bedrock_identifier": "geyser_custom:pet_egg_skeleton",
+        "display_name": "스켈레톤 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_skeleton"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_slime",
+        "bedrock_identifier": "geyser_custom:pet_egg_slime",
+        "display_name": "슬라임 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_slime"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_spider",
+        "bedrock_identifier": "geyser_custom:pet_egg_spider",
+        "display_name": "거미 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_spider"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_stray",
+        "bedrock_identifier": "geyser_custom:pet_egg_stray",
+        "display_name": "스트레이 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_stray"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_vex",
+        "bedrock_identifier": "geyser_custom:pet_egg_vex",
+        "display_name": "벡스 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_vex"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_vindicator",
+        "bedrock_identifier": "geyser_custom:pet_egg_vindicator",
+        "display_name": "변명자 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_vindicator"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_witch",
+        "bedrock_identifier": "geyser_custom:pet_egg_witch",
+        "display_name": "마녀 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_witch"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_wither_skeleton",
+        "bedrock_identifier": "geyser_custom:pet_egg_wither_skeleton",
+        "display_name": "위더 스켈레톤 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_wither_skeleton"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_wolf",
+        "bedrock_identifier": "geyser_custom:pet_egg_wolf",
+        "display_name": "늑대 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_wolf"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_zoglin",
+        "bedrock_identifier": "geyser_custom:pet_egg_zoglin",
+        "display_name": "조글린 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_zoglin"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_zombie",
+        "bedrock_identifier": "geyser_custom:pet_egg_zombie",
+        "display_name": "좀비 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_zombie"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_zombie_villager",
+        "bedrock_identifier": "geyser_custom:pet_egg_zombie_villager",
+        "display_name": "좀비 주민 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_zombie_villager"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:pet_egg_zombified_piglin",
+        "bedrock_identifier": "geyser_custom:pet_egg_zombified_piglin",
+        "display_name": "좀비 피글린 알",
+        "bedrock_options": {
+          "icon": "legacy_item_pet_egg_zombified_piglin"
+        }
+      }
+    ]
+  }
+}
