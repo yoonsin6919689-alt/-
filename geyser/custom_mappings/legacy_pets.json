@@ -352,6 +352,105 @@
         "bedrock_options": {
           "icon": "legacy_item_pet_egg_zombified_piglin"
         }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:tag_change_ticket",
+        "bedrock_identifier": "geyser_custom:tag_change_ticket",
+        "display_name": "태그 변경권",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_change_ticket"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_dragon",
+        "bedrock_identifier": "geyser_custom:tag_dragon",
+        "display_name": "용 태그",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_dragon"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_hell",
+        "bedrock_identifier": "geyser_custom:tag_hell",
+        "display_name": "지옥 태그",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_hell"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_joseon",
+        "bedrock_identifier": "geyser_custom:tag_joseon",
+        "display_name": "조선 태그",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_joseon"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_jp",
+        "bedrock_identifier": "geyser_custom:tag_jp",
+        "display_name": "일본 태그",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_jp"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_cn",
+        "bedrock_identifier": "geyser_custom:tag_cn",
+        "display_name": "중국 태그",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_cn"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_slot_helmet",
+        "bedrock_identifier": "geyser_custom:tag_slot_helmet",
+        "display_name": "투구",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_slot_helmet"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_slot_chest",
+        "bedrock_identifier": "geyser_custom:tag_slot_chest",
+        "display_name": "흉갑",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_slot_chest"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_slot_legs",
+        "bedrock_identifier": "geyser_custom:tag_slot_legs",
+        "display_name": "바지",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_slot_legs"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_slot_feet",
+        "bedrock_identifier": "geyser_custom:tag_slot_feet",
+        "display_name": "신발",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_slot_feet"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "legacy:ui/tag_slot_wing",
+        "bedrock_identifier": "geyser_custom:tag_slot_wing",
+        "display_name": "겉날개 슬롯",
+        "bedrock_options": {
+          "icon": "legacy_item_tag_slot_wing"
+        }
       }
     ]
   }
